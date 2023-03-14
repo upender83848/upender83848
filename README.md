@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @upender
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Data analyasis with Excel and Python 
-- 💞️ I’m looking to collaborate on Data Science Projects and as well automation projects 
+- 🌱 I’m currently doing masters in Dara science
+- 💞️ I’m looking to collaborate on Data Science Projects and as well automation projects
 - 📫 How to reach me ..upender83848@gmail.com
 
 <!---
